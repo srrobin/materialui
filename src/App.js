@@ -1,10 +1,9 @@
-import * as React from 'react';
-import ReactDOM from 'react-dom';
-import Button from '@mui/material/Button';
+import Button from "@mui/material/Button";
+import * as React from "react";
 
 function App() {
   return (
-    <Button variant="contained" color="primary">
+    <Button variant="contained" color="secondary">
       Hello World
     </Button>
   );
